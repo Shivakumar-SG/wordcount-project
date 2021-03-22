@@ -1,2 +1,2 @@
 # wordcount-project
-a website which can count number of words in a passage or essay.
+A python and Django based website which counts the number of words in a given paragraph or essay.
